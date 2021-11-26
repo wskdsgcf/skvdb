@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/chenkun/Documents/C/skvdb
+-- finding /usr/local/lib/librocksdb.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/chenkun/Documents/C/skvdb/cmake-build-debug
